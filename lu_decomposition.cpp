@@ -7,7 +7,7 @@ using namespace std;
 class lu
 {
 private:
-    /*int i, j, k, n, *pivrow;*/
+    // int i, j, k, n, *pivrow;
     double eps, pivot, sum, a1, a2, *b, **a;
 public:
     void lu_input();
