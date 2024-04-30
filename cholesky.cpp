@@ -3,7 +3,7 @@
 #include <process.h>
 
 using namespace std;
-
+// symmetric cholesky decomposition
 class cholesky
 {
 private:
